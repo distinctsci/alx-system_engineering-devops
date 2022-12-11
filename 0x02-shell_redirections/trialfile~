@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -a
+echo "this is all very confusing" 
